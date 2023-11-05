@@ -51,7 +51,7 @@ public class Stone_paper_sessior {
             System.out.println("!!!!!!!!!!computer wins!!!!!!!!!!!!\n");
             System.out.println("choice of computer was: " + result);
         } else {
-            System.out.println("--------------There is technical problem------------\n");
+            System.out.println("!!!!!!!!!!!!!!You entered Wrong input!!!!!!!!!!!!\n");
             System.out.println(result);
         }
         System.out.println();
